@@ -6,16 +6,6 @@
     <managingEditor>marcelschr@protonmail.com (Marcel Schramm)</managingEditor>
     <pubDate>Sun, 27 May 2018 00:00:00 +0000</pubDate>
     <item>
-      <title>Introducing My New And Worse Website</title>
-      <link>https:/btw-i-use-arch.github.io/articles/introducing-my-new-and-worse-website.html</link>
-      <description></description>
-      <content:encoded><![CDATA[<p>Introductory content.</p>
-
-<p>Actual content</p>]]></content:encoded>
-      <author>Marcel Schramm</author>
-      <pubDate>Sun, 01 Nov 2020 00:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Think Twice Before Using Varargs</title>
       <link>https:/btw-i-use-arch.github.io/articles/think-twice-before-using-varargs.html</link>
       <description></description>
@@ -240,6 +230,16 @@ services should be free?
 </p>]]></content:encoded>
       <author>Marcel Schramm</author>
       <pubDate>Thu, 15 Nov 2018 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Introducing My New And Worse Website</title>
+      <link>https:/btw-i-use-arch.github.io/articles/introducing-my-new-and-worse-website.html</link>
+      <description></description>
+      <content:encoded><![CDATA[<p>Introductory content.</p>
+
+<p>Actual content</p>]]></content:encoded>
+      <author>Marcel Schramm</author>
+      <pubDate>Thu, 01 Nov 2018 00:00:00 +0000</pubDate>
     </item>
     <item>
       <title>A Month Into Solus Budgie</title>
